@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">TagMe</string>
+
+    <string name="welcome_to_tagme">Welcome to TagMe!</string>
+    <string name="logo">Logo</string>
+
+    <string name="email_invalid">Email Invalid</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="continue_with_google">Continue With Google</string>
+    <string name="retype_password">Retype Password</string>
+    <string name="sign_up_account">Sign Up Account Here!</string>
+    <string name="nama_barang">Item Name</string>
+    <string name="masukkan_nama_barang">Enter item name</string>
+    <string name="kondisi_barang">Item Condition</string>
+    <string name="masukkan_kondisi_barang">Enter Item Condition</string>
+    <string name="harga_barang">Item Price</string>
+    <string name="masukkan_harga_barang">Enter Item Price</string>
+    <string name="tanggal_pembelian">Purchase Date</string>
+    <string name="masukkan_tanggal_pembelian">Enter Purchase Date</string>
+    <string name="generate_qr_code">Generate QR Code</string>
+    <string name="add_qr">Add QR</string>
+    <string name="qr_scan">Scan QR</string>
+    <string name="log_out">LOG OUT</string>
+    <string name="serial_number">Serial Number</string>
+    <string name="masukkan_serial_number">Input serial number</string>
+
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="home">Home</string>
+    <string name="aboutUs">About Us</string>
+    <string name="tutorial_app">Application Usage Tutorial</string>
+    <string name="create_qr_code">Create QR code</string>
+    <string name="text_membuat_qr_code">Click Add QR in the top right menu, which is in the form of a three-dot icon. Then complete all the fields, for information that generates a Qr Code. The following is a display from the Add QR page</string>
+    <string name="scan_qr_code">Scan QR Code</string>
+    <string name="text_scan_qr_code">Click Scan QR in the top right menu, which is in the form of a three-dot icon. Then allow the use of the camera, and point the camera at the barcode.</string>
+    <string name="sign_up_acc">Don\'t have account? Sign up here.</string>
+    <string name="capstone_project">Capstone Project</string>
+    <string name="qr_scanner_dan_code_generator">QR Scanner dan Code Generator</string>
+    <string name="about_us_txt">TagME is a project in the form of an application that was built to provide convenience in the inventory process so that inventory can list the information needed in the QR Code and scan it with only one application.</string>
+    <string name="qr_history">QR Data</string>
+
+</resources>

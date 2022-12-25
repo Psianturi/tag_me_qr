@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "912423163069",
+    "project_id": "tagme-capstone-project-abb70",
+    "storage_bucket": "tagme-capstone-project-abb70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912423163069:android:fd3d3250ab2ffacfde53d4",
+        "android_client_info": {
+          "package_name": "com.bangkit.tagme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912423163069-pg23lh5v2u8mgc18vhll9ief3dmurp26.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bangkit.tagme",
+            "certificate_hash": "9f2103e6d06df564667dcad0b093d3356aec8834"
+          }
+        },
+        {
+          "client_id": "912423163069-e1pq7bi3lt5jkgrmplr29va528u6l8cc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH7MsB93TcXnLH7COF9l5B5FgmGnDcahs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912423163069-e1pq7bi3lt5jkgrmplr29va528u6l8cc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
