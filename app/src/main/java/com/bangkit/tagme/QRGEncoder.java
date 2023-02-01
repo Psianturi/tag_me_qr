@@ -170,7 +170,7 @@ class QRGEncoder {
         }
     }
 
-    public Bitmap encodeAsBitmap() throws WriterException {
+    public Bitmap encodeAsBitmap(BitMatrix bitMatrix) throws WriterException {
         if (!encoded) return null;
 
         Map<EncodeHintType, Object> hints = null;
